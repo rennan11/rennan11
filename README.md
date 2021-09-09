@@ -1,5 +1,12 @@
-### Hi there 👋
+### Olá eu sou o Rennan Freitas e bem vindo ao meu perfil 👋
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rennan11&include_all_commits=true&count_private=true&theme=midnight-purple&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennan11&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
+<div>
+  ![Snake animation](https://github.com/rennan11/rennan11/blob/output/github-contribution-grid-snake.svg)
+</div>
 <!--
 **rennan11/rennan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
